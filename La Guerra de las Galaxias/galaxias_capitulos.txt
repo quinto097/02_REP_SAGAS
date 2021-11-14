@@ -1,6 +1,6 @@
 1	Star Wars: Episodio I - La amenaza fantasma
-2	Star Wars: Episodio II - La amenaza fantasma
-3	Star Wars: Episodio III - La amenaza fantasma
-4	Star Wars: Episodio IV - La amenaza fantasma
-5	Star Wars: Episodio V - La amenaza fantasma
-6	Star Wars: Episodio VI - La amenaza fantasma	
+2	Star Wars: Episodio II (2) - La amenaza fantasma
+3	Star Wars: Episodio III (3) - La amenaza fantasma
+4	Star Wars: Episodio IV (4) - La amenaza fantasma
+5	Star Wars: Episodio V (5) - La amenaza fantasma
+6	Star Wars: Episodio VI (6) - La amenaza fantasma	
